@@ -12,7 +12,7 @@ export function AIUCommunityMissionPage() {
           </div>
           <nav>
             <ul className="flex space-x-4">
-              <li><a href="#" className="hover:underline text-sm">Home</a></li>
+              <li><a href="/home-page" className="hover:underline text-sm">Home</a></li>
               <li><a href="#" className="hover:underline text-sm">About us</a></li>
               <li><a href="#" className="hover:underline text-sm">Contacts</a></li>
             </ul>
@@ -73,9 +73,9 @@ export function AIUCommunityMissionPage() {
               </div>
             </div>
             <div className="mt-8 text-center">
-              <button className="bg-gradient-to-r from-red-600 to-purple-600 hover:from-red-700 hover:to-purple-700 text-white font-bold py-2 px-6 rounded-full text-sm transition duration-300 ease-in-out transform hover:scale-105">
+              <a href ="/home-page" className="bg-gradient-to-r from-red-600 to-purple-600 hover:from-red-700 hover:to-purple-700 text-white font-bold py-2 px-6 rounded-full text-sm transition duration-300 ease-in-out transform hover:scale-105">
                 Присоединиться к сообществу
-              </button>
+              </a>
             </div>
           </div>
         </div>

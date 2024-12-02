@@ -1,7 +1,7 @@
-import { AIUCommunityHomePage } from "@/components/home";
+import { AIUCommunityMissionPage } from "@/components/mission";
 
-const HomePage = () => {
-  return <AIUCommunityHomePage />;
+const MissionPage = () => {
+  return <AIUCommunityMissionPage />;
 };
 
-export default HomePage;
+export default MissionPage;

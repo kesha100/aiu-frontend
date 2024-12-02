@@ -26,23 +26,23 @@ export function AIUCommunityHomePage() {
             <div className="flex">
               <div className="pl-8">
                 <Link 
-                  href="/"
+                  href="/feed-page"
                   className="bg-blue-950 text-white hover:bg-blue-900 px-8 py-6 flex items-center text-base font-medium"
                 >
-                  Home
+                  Feed
                 </Link>
               </div>
               <Link 
-                href="/faculty"
+                href="/qa-page"
                 className="bg-blue-950 text-white hover:bg-blue-900 px-8 py-6 flex items-center text-base font-medium"
               >
-                Faculty
+                Q&A
               </Link>
               <Link 
-                href="/events"
+                href="/mission-page"
                 className="bg-blue-950 text-white hover:bg-blue-900 px-8 py-6 flex items-center text-base font-medium"
               >
-                Events
+                Mission
               </Link>
             </div>
           </div>
