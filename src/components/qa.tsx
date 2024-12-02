@@ -1,7 +1,7 @@
 'use client'
 
 import { useState } from 'react'
-import { Users, MessageCircle, PlusCircle, Send } from 'lucide-react'
+import { Users, PlusCircle, Send } from 'lucide-react'
 
 type Answer = {
   id: number
