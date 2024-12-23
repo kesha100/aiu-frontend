@@ -73,7 +73,7 @@ export function AIUCommunityMissionPage() {
               </div>
             </div>
             <div className="mt-8 text-center">
-              <a href ="/home-page" className="bg-gradient-to-r from-red-600 to-purple-600 hover:from-red-700 hover:to-purple-700 text-white font-bold py-2 px-6 rounded-full text-sm transition duration-300 ease-in-out transform hover:scale-105">
+              <a href ="/signup" className="bg-gradient-to-r from-red-600 to-purple-600 hover:from-red-700 hover:to-purple-700 text-white font-bold py-2 px-6 rounded-full text-sm transition duration-300 ease-in-out transform hover:scale-105">
                 Присоединиться к сообществу
               </a>
             </div>
